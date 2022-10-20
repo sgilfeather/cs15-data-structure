@@ -1,4 +1,4 @@
-# cs15-data-structure
+# cs15-data-structures
 Projects implementing common data structures and algorithms in C++ (with amortized performance analysis!). Implementations of binary trees, hash tables, and graphs for the purpose of huffman coding, file system index, train simulating, and much more...Included in this repo are projects completed for this course, including:
 - `MetroSim`: A simulation of the MBTA Green Line, utilizing queues to organize and optimally move passengers between train stations.
 - `Zap`: A implementation of Huffman Coding, which uses binary trees.
