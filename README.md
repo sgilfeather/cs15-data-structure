@@ -7,4 +7,4 @@ Included in this repo are projects completed for this course, including:
 - `Zap`: A file compressor, similar to `zip`, which utilizes binary trees to implement Huffman coding for lossless data compression.
 - `Gerp`: A simple reimplementation of `grep`, which utilizes hash tables to efficiently index and search a local file system.
 
-For the sake of academic integrity, I unfortunately can't make my code for these projects public. However, I can share their specifications and design documents here. If you (a recruiter, a curious developer, etc.) would like to see the source code, shoot me an email at **skylar.gilfeather@gmail.com**. I'd be very happy to share my work with you!
+For the sake of academic integrity, I unfortunately can't make my code for these projects public. However, I can share their specifications and design documents here. If you (a recruiter, a curious developer, etc.) would like to see the source code, please reach out. I'd be very happy to share my work with you!
